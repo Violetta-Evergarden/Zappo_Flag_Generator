@@ -1,6 +1,6 @@
 # Zappo Flag Generator
 
-Zappo
+A python script to generate flag json files for crusalis.
 
 ## Features
 
@@ -21,7 +21,11 @@ Zappo
 3. Ensure you have Python installed:
 
 
+
+
 ## Usage
+
+1. **Create flags and output directories**: Create folders named "flags" and "output" in the main directory.
 
 1. **Prepare Your Files**: Place the flag textures you want to add into the `/flags/` directory.
 
